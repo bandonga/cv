@@ -258,7 +258,7 @@ marcelo:
       gastagus:
         ententy: GASTagus
         url: https://www.gastagus.org
-        logo: "/assets/img/marcelo/gastagus.png"
+        logo: "assets/img/marcelo/gastagus.png"
         items:
           - gastagus
         gastagus:
