@@ -1,7 +1,7 @@
 marcelo:
   name: Marcelo Félix
-  avatar: /assets/img/marcelo/marcelo.jpg
-  favicon: /assets/img/marcelo/marcelo.ico
+  avatar: assets/img/marcelo/marcelo.jpg
+  favicon: assets/img/marcelo/marcelo.ico
   bio: Telecom Engineer @talkdesk
   url: bandonga.com/cv/marcelo
   email_user  : marcelo
@@ -84,7 +84,7 @@ marcelo:
         - capgemini
       talkdesk:
         ententy: Talkdesk
-        logo: "/assets/img/marcelo/talkdesk.png"
+        logo: "assets/img/marcelo/talkdesk.png"
         url: https://talkdesk.com/
         items:
           - network
@@ -111,7 +111,7 @@ marcelo:
       celfocus:
         ententy: Celfocus
         url: https://celfocus.com/
-        logo: "/assets/img/marcelo/celfocus.png"
+        logo: "assets/img/marcelo/celfocus.png"
         items:
           - operations
         operations:
@@ -135,7 +135,7 @@ marcelo:
       capgemini:
         ententy: Capgemini
         url: https://capgemini.com/
-        logo: "/assets/img/marcelo/capgemini.png"
+        logo: "assets/img/marcelo/capgemini.png"
         items:
           - consultant
         consultant:
@@ -160,7 +160,7 @@ marcelo:
       tecnico:
         ententy: Técnico - Universidade de Lisboa
         url: https://tecnico.ulisboa.pt/
-        logo: "/assets/img/marcelo/tecnico.png"
+        logo: "assets/img/marcelo/tecnico.png"
         items:
           - meec
         meec:
@@ -179,158 +179,11 @@ marcelo:
       webLogic:
         ententy: WebLogic Server 12c Administrator
         url: https://www.youracclaim.com/users/marcelofelix
-        logo: "/assets/img/marcelo/weblogic.png"
+        logo: "assets/img/marcelo/weblogic.png"
         items:
           - oracle
         oracle:
           title: Oracle
-user:
-  name: "Henriques D. Afonso"
-  avatar: assets/img/user/afonso.jpg
-  bio: CEO @portugal
-  url: bandonga.com/cv/user
-  email_user : afonso
-  email_domain: portugal.pt
-  links:
-    - linkedin
-    - github
-    - telegram
-    - keybase
-  telegram:
-    name: afonsopt
-    url: https://t.me/
-    icon: telegram
-  github :
-    name: afonsopt
-    url: https://github.com/
-    icon: github
-  linkedin:
-    name: afonsopt
-    url: https://www.linkedin.com/in/
-    icon: linkedin
-  keybase:
-    name: afonsopt
-    url: https://keybase.io/
-    icon: keybase
-  link: bandonga.com
-  location    : Guimarães
-  born        : 1109-07-25T00:00:00
-  nationality:
-    - nat_pt
-  nat_pt:
-    name: Portuguese
-    flag: pt
-  languages:
-    - lan_en
-  lan_en:
-      name: Proficient in Castilian
-      flag: es
-  roles:
-    - Entrepreneur / Manager
-  pages: 1
-  sections:
-      - about
-      - experience
-      - education
-      - skills
-      - interests
-
-  data:
-    about:
-      title: Profile
-      icon: user
-      page: 1
-      groups:
-        - profile
-      profile:
-        items:
-          - profile
-        profile:
-          description: "Afonso as a strong young man, decided not to play the role of the obedient son and defied his mother. In fact, his strength gave birth to the legend that the sword he used in the many battles he engaged was so heavy that only five men could handle it. Influenced by his tutor Egas Moniz, the young Afonso grew a huge admiration for his father and his ideas, therefore fought against his mother and the Castile armies in the Battle of São Mamede in order to take the power in his hands. And he succeeded!"
-    experience:
-      title: Professional Experience
-      icon: briefcase
-      page: 1
-      range:
-        a: 1128-06-24T00:00:00
-        b: 1185-12-06T00:00:00
-      groups:
-        - pt
-        - leon
-      pt:
-        ententy: Portugal
-        url: https://portugal.pt/
-        logo: "assets/img/user/portugal1143.png"
-        items:
-          - king
-        king:
-          title      : CEO
-          dates      : July 1139 - December 1185
-          range      :
-            a: 1139-07-26T00:00:00
-            b: 1185-12-06T00:00:00
-          location   : Coimbra
-          description: "The next step towards independence was to turn the Pope into an ally in order to get the Papal bull to formalize the question. To do so, Afonso Henriques fought the Moors and, following his father’s footprints, conquered new territories. The Battle of Ourique was decisive to this goal as his troops defeated the better equipped and large numbered Moorish army. Some say that this win was a true miracle."
-
-      leon:
-        ententy: Leon
-        url: https://leon.es/
-        logo: "assets/img/user/leon.png"
-        items:
-          - count
-        count:
-          title      : Manager of Portugal Department
-          dates      : June 1128 - July 1139
-          range      :
-            a: 1128-06-24T00:00:00
-            b: 1139-07-25T00:00:00
-          location   : Guimarães
-          description: "After Teresa's death in 1131, Afonso VII of León and Castille proceeded to demand vassalage from his cousin. On 6 April 1129, Afonso Henriques dictated the writ in which he proclaimed himself Prince of Portugal or Prince of the Portuguese, an act informally allowed by Afonso VII, as it was thought to be Afonso Henriques's right by blood, as one of two grandsons of the Emperor of Hispania."
-
-    education:
-      title: Education
-      icon: school
-      page: 1
-      groups:
-        - egas
-      egas:
-        ententy: Egas Moniz Uni
-        url: https://egasoaio.pt/
-        logo: "assets/img/user/egas.png"
-        items:
-          - meec
-        meec:
-          title      : Master in Management
-          location   : Guimarães
-          description: Egas Moniz de Ribadouro, possibly with the help of oral memories that associated the tutor to the house of Ribadouro. Yet, contemporary documents, namely from the chancery of Afonso in his early years as count of Portucale, indicate that the most likely tutor of Afonso Henriques was Egas Moniz's oldest brother, Ermígio Moniz, who, besides being the senior brother within the family of Ribadouro, became the "dapifer" and "majordomus" of Afonso I from 1128 until his death in 1135, which indicates his closer proximity to the prince
-
-    skills:
-      title: Skills
-      icon: tools
-      page: 1
-      groups:
-        - skills
-      skills:
-        items:
-          - skills
-        skills:
-          description: "
-           -- Aged 14, makes himself a Knight on his own account in the Cathedral of Zamora.<br>
-           -- Defeats his mother, Theresa, Countess of Portugal, in the Battle of São Mamede and becomes Duke.<br>
-           -- Proclaims himself Prince of Portugal."
-
-    interests:
-      title: Interests
-      icon: mountain
-      page: 1
-      groups:
-        - interests
-      interests:
-        items:
-          - interests
-        interests:
-          description: Fighting and Swords. It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron. There are mythical stories that it took 5 men to carry his sword, and that Afonso wanted to engage other monarchs in personal combat, but no one would dare accept his challenge.
-
 
     skills:
       title: Skills
@@ -361,7 +214,7 @@ user:
       best:
         ententy: Best
         url: https://www.best.eu.org
-        logo: "/assets/img/marcelo/best.png"
+        logo: "assets/img/marcelo/best.png"
         items:
           - course
         course:
@@ -373,7 +226,7 @@ user:
       systemsgroup:
         ententy: SystemsGroup
         url: https://systems-group.org/
-        logo: "/assets/img/marcelo/systemsgroup.png"
+        logo: "assets/img/marcelo/systemsgroup.png"
         items:
           - fiscal
         fiscal:
@@ -384,7 +237,7 @@ user:
       desordem:
         ententy: República "A Desordem dos Engenheiros"
         url: https://desordem.org
-        logo: "/assets/img/marcelo/desordem.png"
+        logo: "assets/img/marcelo/desordem.png"
         items:
           - board
         board:
@@ -416,7 +269,7 @@ user:
       acrides:
         ententy: ACRIDES
         url: http://acrides.org.cv
-        logo: "/assets/img/marcelo/acrides.png"
+        logo: "assets/img/marcelo/acrides.png"
         items:
           - acrides
         acrides:
@@ -428,7 +281,7 @@ user:
       namaacha:
         ententy: Colégio Maria Auxiliadora
         url: https://sdb.org
-        logo: "/assets/img/marcelo/salesianos.png"
+        logo: "assets/img/marcelo/salesianos.png"
         items:
           - namaacha
         namaacha:
@@ -440,7 +293,7 @@ user:
       leigos:
         ententy: Leigos para o Desenvolvimento
         url: https://pontosj.pt/leigos/
-        logo: "/assets/img/marcelo/leigos.png"
+        logo: "assets/img/marcelo/leigos.png"
         items:
           - leigos
         leigos:

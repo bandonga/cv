@@ -1,2 +1,7 @@
 ---
+title: Curriculum Vitae
+description: >
+  YAML CV for jekyll
+include:
+  - _pages
 remote_theme: marcelofpfelix/jekyllcv
