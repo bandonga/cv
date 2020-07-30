@@ -196,12 +196,12 @@ marcelo:
           - skills
         skills:
           description: "
-           -- Understanding of Networking (TCP/IP), IMS Network, WebRTC and VOIP: SIP/RTP Protocols.<br>
-           -- Ability to develop scripts (bash/python) and git.<br>
-           -- Linux (Red Hat), Weblogic, PBXs and ActiveMQ Administration.<br>
-           -- Experience with multiple Databases (InfluxDB, Postgres, TimesTen, OracleDB).<br>
-           -- Automate Linux, network and app configurations with ansible.<br>
-           -- Interaction with multiple monitoring tools, such as ElasticSearch, Nagios/CheckMK and Grafana."
+           -- Understanding of **Networking** (TCP/IP), IMS Network, WebRTC and VOIP: SIP/RTP Protocols.<br>
+           -- Ability to **develop** scripts (bash/python) and git.<br>
+           -- **Linux** (RedHat/Ubuntu), Weblogic, PBXs and ActiveMQ Administration.<br>
+           -- Experience with multiple **Databases** (InfluxDB, Postgres, TimesTen, OracleDB).<br>
+           -- **Automate** infrastructure and configurations with Ansible and Packer.<br>
+           -- Interaction with multiple **monitoring** tools, such as ElasticSearch (ELK), Nagios/CheckMK and Grafana."
 
     organizations:
       title: Organizations
