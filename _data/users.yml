@@ -202,8 +202,8 @@ marcelo:
            -- **Linux** (RedHat/Ubuntu), Weblogic J2EE AS, Apache HTTP and ActiveMQ Message broker Administration.<br>
            -- Experience with multiple **Databases** (InfluxDB, Postgres, TimesTen, OracleDB).<br>
            -- **Automate** infrastructure and configurations with Ansible and Packer.<br>
-           -- Interaction with multiple **monitoring** tools, such as ElasticSearch (ELK), Nagios/CheckMK and Grafana."
-           -- Homelab with Proxmox VE **virtualization**
+           -- Interaction with multiple **monitoring** tools, such as ElasticSearch (ELK), Nagios/CheckMK and Grafana.<br>
+           -- Homelab with Proxmox VE **virtualization**."
 
     organizations:
       title: Organizations
