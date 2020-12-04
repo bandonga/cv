@@ -198,7 +198,7 @@ marcelo:
           description: "
            -- Expertise in **VOIP** SIP/RTP Protocols, IMS Network, WebRTC, SIP Servers and PBXs (such as Asterisk).<br>
            -- Understanding of **Networking** (TCP/IP) routing and switching.<br>
-           -- Ability to **develop** scripts (bash/python) and git.<br>
+           -- Ability to **develop** scripts and tools (bash/python) and git.<br>
            -- **Linux** (RedHat/Ubuntu), Weblogic J2EE AS, Apache HTTP and ActiveMQ Message broker Administration.<br>
            -- Experience with multiple **Databases** (InfluxDB, Postgres, TimesTen, OracleDB).<br>
            -- **Automate** infrastructure and configurations with Ansible and Packer.<br>
