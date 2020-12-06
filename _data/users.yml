@@ -41,8 +41,8 @@ marcelo:
       name: Proficient in English
       flag: gb
   roles:
-    - SysAdmin  (SRE / Infrastructure Operations)
-    - Technical Support Engineer (VoIP Network)
+    - SRE  (SysAdmin / Infrastructure Operations)
+    - VoIP Network Engineer (Technical Support)
   pages: 2
   sections:
       - about
@@ -66,8 +66,8 @@ marcelo:
         items:
           - profile
         profile:
-          description: "Telecom engineer working in Unified Comms Operations and Support, with a background in IT and Networking.<br>
-                Broad knowledge, from VoIP Protocols to Sysadmin, with troubleshooting and service maintenance experience.
+          description: "Telecom engineer working in Unified Comms Operations, with a background in IT and Networking.<br>
+                Broad knowledge, from VoIP Protocols to Sysadmin, with troubleshooting and SRE experience.
                 Eager to learn more about about **Linux**, **Networking**, **VoIP**, monitoring, cloud computing, automation and containers.<br>
                 Enthusiastic about open source, writing articles and experimenting in a homelab."
 
@@ -201,7 +201,7 @@ marcelo:
            -- Ability to **develop** scripts and tools (bash/python) and git.<br>
            -- **Linux** (RedHat/Ubuntu), Weblogic J2EE AS, Apache HTTP and ActiveMQ Message broker Administration.<br>
            -- Experience with multiple **Databases** (InfluxDB, Postgres, TimesTen, OracleDB).<br>
-           -- **Automate** infrastructure and configurations with Ansible and Packer.<br>
+           -- **Automate** boring stuff and infrastructure as code with Ansible and Packer.<br>
            -- Interaction with multiple **monitoring** tools, such as ElasticSearch (ELK), Nagios/CheckMK and Grafana.<br>
            -- Homelab with Proxmox VE **virtualization**."
 
