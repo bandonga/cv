@@ -66,9 +66,9 @@ marcelo:
         items:
           - profile
         profile:
-          description: "Telecom engineer working in Unified Comms Operations, with a background in IT and Networking.<br>
+          description: "Telecom engineer working in Voice Operations, with a background in Infrastructure and Networking.<br>
                 Broad knowledge, from VoIP Protocols to Sysadmin, with troubleshooting and SRE experience.
-                Eager to learn more about about **Linux**, **Networking**, **VoIP**, monitoring, cloud computing, automation and containers.<br>
+                Eager to learn more about about **Linux**, **Networking**, **VoIP**, monitoring, cloud computing, automation, microservices and containers.<br>
                 Enthusiastic about open source, writing articles and experimenting in a homelab."
 
     experience:
