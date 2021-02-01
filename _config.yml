@@ -4,4 +4,5 @@ description: >
   YAML CV for jekyll
 include:
   - _pages
+og_image: "/assets/img/marcelo/marcelo.jpg"
 remote_theme: marcelofpfelix/jekyllcv
