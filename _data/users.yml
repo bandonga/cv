@@ -2,7 +2,7 @@ marcelo:
   name: Marcelo Félix
   avatar: assets/img/marcelo/marcelo.jpg
   favicon: assets/img/marcelo/marcelo.ico
-  og_image: bandonga.com/cv/assets/img/marcelo/og.png
+  og_image: https://bandonga.com/cv/assets/img/marcelo/og.png
   bio: Telecom Engineer @talkdesk
   url: bandonga.com/cv/marcelo
   email_user  : marcelo
