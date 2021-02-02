@@ -5,7 +5,7 @@ description: >
 include:
   - _pages
 image:
-  path: /assets/img/marcelo/og.png
+  path: assets/img/marcelo/og.png
   height: 100
   width: 100
 url: https://bandonga.com/cv/marcelo
