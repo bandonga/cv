@@ -104,7 +104,7 @@ marcelo:
             a: 2018-11-01T00:00:00
             b: 2020-03-31T00:00:00
           location   : Lisboa
-          description: "Tier 2 responsible to diagnose and solve Call Quality issues (QoS, Network configuration) REST API platform issues for several external integrations and SIP trunks.\n
+          description: "Tier 2 responsible to diagnose and solve Call Quality (QoS, Network configuration) and REST API platform issues for several external integrations and SIP trunks.\n
             Acting as main POC for vendors/carrier/partners and liaison between engineering and support teams.\n
             Identify, document, replicate and triage on product bugs and features."
 
