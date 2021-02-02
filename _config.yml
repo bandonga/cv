@@ -4,11 +4,6 @@ description: >
   Check my online resume
 include:
   - _pages
-image:
-  path: "/assets/img/marcelo/og.png"
-  height: 100
-  width: 100
-url: https://bandonga.com/cv/marcelo
 author:
   name: Marcelo Félix
 remote_theme: marcelofpfelix/jekyllcv
