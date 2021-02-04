@@ -43,8 +43,8 @@ marcelo:
       name: Proficient in English
       flag: gb
   roles:
-    - SRE  (SysAdmin / Infrastructure Operations)
-    - VoIP Network Engineer (Technical Support)
+    - Voice Engineer (VoIP / Network)
+    - SRE (SysAdmin / Infrastructure Operations)
   pages: 2
   sections:
       - about
@@ -98,7 +98,7 @@ marcelo:
             a: 2020-03-01T00:00:00
             b: Present
           location   : Remote
-          description: "Professional Services specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) and SIP trunk setup between multiple SBC/PBX (such as Asterisk) and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
+          description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) and SIP trunk setup between multiple SBC/PBX (such as Asterisk) and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
         support:
           title      : Support Engineer
           dates      : Nov 2018 - Mar 2020
