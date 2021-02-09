@@ -69,7 +69,7 @@ marcelo:
           - profile
         profile:
           description: "Telecom engineer working in Voice Operations, with a background in Infrastructure and Networking. <br>
-                Broad knowledge, from VoIP Protocols to Sysadmin, with troubleshooting and SRE experience.
+                Broad knowledge, from VoIP Protocols to Sysadmin, with troubleshooting, programming and SRE experience.
                 Eager to learn more about about **Linux**, **Networking**, **VoIP**, monitoring, cloud computing, automation, microservices and containers.<br>
                 Enthusiastic about open source, writing articles and experimenting in a homelab."
 
@@ -124,9 +124,9 @@ marcelo:
             b: 2018-11-30T00:00:00
           location   : Lisboa
           description: "In the Unified Communications team, with the Vodafone One Net and GCC service,  working as:<br>
-            - *Service Operations*, working as a SRE (Site Reliability Engineer). Sysadmin of Red Hat Linux, Middleware Java EE AS (Weblogic), ActiveMQ JMS Broker and NOKIA mCAS. Responsible to deploy and maintain the availability of custom apps.<br>
+            - *Service Operations*, working as a SRE (Site Reliability Engineer). Sysadmin of Red Hat Linux, SIP Trunks, PBX, Middleware Java EE AS (Weblogic), ActiveMQ JMS Broker and NOKIA mCAS. Responsible to deploy and maintain the availability of custom apps.<br>
             Familiarity with multiple Databases (InfluxDB, Postgres, TimesTen, OracleDB)<br>
-            Scripting (bash, python) for monitoring and automation of boring stuff.<br>
+            Development of tools and scripting (bash, python) for monitoring and automation of boring stuff.<br>
             <br>
             - *Technical Support*, in Tier 2, using ITIL practices. Experience with Fault and Change management.<br>
             Able to provide solutions to customers and work with multiple providers.<br>
@@ -148,8 +148,8 @@ marcelo:
             b: 2016-04-30T00:00:00
           location   : Lisboa
           description: "Project with the Celfocus Unified Comms Operations Support team, with the Vodafone One Net and IP Trunking. Experience in:<br>
-            Weblogic Server 11g administration (WebCenter Content, Portal; OSB and SOA)<br>
-            Administration of Unix/Linux Systems and Shell scripting.<br>
+            Weblogic Server 11g administration (WebCenter Content, Portal, OSB and SOA)<br>
+            Administration of Unix/Linux Servers, PBXs and development of tools/scripts.<br>
             ITIL Service Support, with Tier 2 VoIP/SIP, network diagnostics and troubleshooting.<br>
             Oracle PL/SQL and SQL SERVER DB management and query tuning."
 
@@ -198,7 +198,7 @@ marcelo:
           - skills
         skills:
           description: "
-           -- Expertise in **VOIP** SIP/RTP Protocols, IMS Network, WebRTC, SIP Servers and PBXs (such as Asterisk).<br>
+           -- Expertise in **VOIP** SIP/RTP Protocols, IMS Network, WebRTC, SIP Servers/Proxies and PBXs (such as Asterisk).<br>
            -- Understanding of **Networking** (TCP/IP) routing and switching.<br>
            -- Ability to **develop** scripts and tools (bash/python) and git.<br>
            -- **Linux** (RedHat/Ubuntu), Weblogic J2EE AS, Apache HTTP and ActiveMQ Message broker Administration.<br>
