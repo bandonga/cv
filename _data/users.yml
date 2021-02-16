@@ -117,22 +117,21 @@ marcelo:
         items:
           - operations
         operations:
-          title      : Operations Support
+          title      : Service Operations
           dates      : Apr 2016 - Nov 2018
           range      :
             a: 2016-04-01T00:00:00
             b: 2018-11-30T00:00:00
           location   : Lisboa
           description: "In the Unified Communications team, with the Vodafone One Net and GCC service,  working as:<br>
-            - *Service Operations*, working as a SRE (Site Reliability Engineer). Sysadmin of Red Hat Linux, SIP Trunks, PBX, Middleware Java EE AS (Weblogic), ActiveMQ JMS Broker and NOKIA mCAS. Responsible to deploy and maintain the availability of custom apps.<br>
+            Service Operations, working as a SRE (Site Reliability Engineer). Sysadmin of Red Hat Linux, SIP Trunks, PBX, Middleware Java EE AS (Weblogic), ActiveMQ JMS Broker and NOKIA mCAS. Responsible to deploy and maintain the availability of custom apps.<br>
             Familiarity with multiple Databases (InfluxDB, Postgres, TimesTen, OracleDB)<br>
-            Development of tools and scripting (bash, python) for monitoring and automation of boring stuff.<br>
-            <br>
-            - *Technical Support*, in Tier 2, using ITIL practices. Experience with Fault and Change management.<br>
+            Development of tools and scripting (bash, python) for monitoring and automation.<br>
+            Technical Support, as Tier 2, using ITIL practices. Experience with Fault and Change management.<br>
             Able to provide solutions to customers and work with multiple providers.<br>
             Manage the acceptance and deploy of new product releases.
             Provide On-Call support and work well under pressure.
-            Able to troubleshoot Networking issues and REST/SOAP Web Service. Knowledge of VoIP Protocols (essentially SIP) in the IMS Network."
+            Able to troubleshoot Networking issues and REST/SOAP Web Services. Knowledge of VoIP, SIP Flows in the IMS Network."
 
       capgemini:
         ententy: Capgemini
@@ -141,14 +140,14 @@ marcelo:
         items:
           - consultant
         consultant:
-          title      : Consultant
+          title      : Service Operations
           dates      : 2014 - Apr 2016
           range      :
             a: 2014-01-01T00:00:00
             b: 2016-04-30T00:00:00
           location   : Lisboa
           description: "Project with the Celfocus Unified Comms Operations Support team, with the Vodafone One Net and IP Trunking. Experience in:<br>
-            Weblogic Server 11g administration (WebCenter Content, Portal, OSB and SOA)<br>
+            Weblogic Server administration (WebCenter Content, Portal, OSB and SOA)<br>
             Administration of Unix/Linux Servers, PBXs and development of tools/scripts.<br>
             ITIL Service Support, with Tier 2 VoIP/SIP, network diagnostics and troubleshooting.<br>
             Oracle PL/SQL and SQL SERVER DB management and query tuning."
