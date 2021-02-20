@@ -201,9 +201,9 @@ marcelo:
            -- Understanding of **Networking** (TCP/IP) routing and switching.<br>
            -- Ability to **develop** scripts and tools (bash/python) and git.<br>
            -- **Linux** (RedHat/Ubuntu), Weblogic J2EE AS, Apache HTTP and ActiveMQ Message broker Administration.<br>
-           -- Experience with multiple **Databases** (InfluxDB, Postgres, TimesTen, OracleDB).<br>
-           -- **Automate** boring stuff and infrastructure as code with Ansible and Packer.<br>
-           -- Interaction with multiple **monitoring** tools, such as ElasticSearch (ELK), Nagios/CheckMK and Grafana.<br>
+           -- Interaction with multiple **Databases** (InfluxDB, Postgres, TimesTen, OracleDB).<br>
+           -- **Automate** boring stuff and infrastructure as code with Packer, Vagrant and Ansible.<br>
+           -- Experience with multiple **monitoring** tools, such as ElasticSearch (ELK), Nagios/CheckMK and Grafana.<br>
            -- Homelab with Proxmox VE **virtualization**."
 
     organizations:
