@@ -44,7 +44,7 @@ marcelo:
       flag: gb
   roles:
     - Voice Engineer (VoIP / Network)
-    - SRE (SysAdmin / Infrastructure Operations)
+    - SRE (Cloud / Infrastructure Operations)
   pages: 2
   sections:
       - about
