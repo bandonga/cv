@@ -98,7 +98,7 @@ marcelo:
             a: 2020-03-01T00:00:00
             b: Present
           location   : Remote
-          description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) and SIP trunk setup between multiple SBC/PBX (such as Asterisk) and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
+          description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) in the CCasS and SIP trunk setup between multiple SBC/PBX (such as Asterisk) and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
         support:
           title      : Support Engineer
           dates      : Nov 2018 - Mar 2020
@@ -123,7 +123,7 @@ marcelo:
             a: 2016-04-01T00:00:00
             b: 2018-11-30T00:00:00
           location   : Lisboa
-          description: "In the Unified Communications team, with the Vodafone One Net and GCC service,  working as:<br>
+          description: "In the Unified Communications team, with the Vodafone One Net (UCaaS Hosted IP PBX) and GCC service,  working as:<br>
             Service Operations, working as a SRE (Site Reliability Engineer). Sysadmin of Red Hat Linux, SIP Trunks, PBX, Middleware Java EE AS (Weblogic), ActiveMQ JMS Broker and NOKIA mCAS. Responsible to deploy and maintain the availability of custom apps.<br>
             Familiarity with multiple Databases (InfluxDB, Postgres, TimesTen, OracleDB)<br>
             Development of tools and scripting (bash, python) for monitoring and automation.<br>
@@ -146,7 +146,7 @@ marcelo:
             a: 2014-01-01T00:00:00
             b: 2016-04-30T00:00:00
           location   : Lisboa
-          description: "Project with the Celfocus Unified Comms Operations Support team, with the Vodafone One Net and IP Trunking. Experience in:<br>
+          description: "Project with the Celfocus UC Service Operations team, with the Vodafone One Net and SIP Trunking. Experience in:<br>
             Weblogic Server administration (WebCenter Content, Portal, OSB and SOA)<br>
             Administration of Unix/Linux Servers, PBXs and development of tools/scripts.<br>
             ITIL Service Support, with Tier 2 VoIP/SIP, network diagnostics and troubleshooting.<br>
