@@ -172,7 +172,7 @@ marcelo:
     education:
       title: Education
       icon: school
-      page: 1
+      page: 2
       groups:
         - tecnico
       tecnico:
