@@ -4,7 +4,7 @@ marcelo:
   favicon: assets/img/marcelo/marcelo.ico
   og_image: https://bandonga.com/cv/assets/img/marcelo/og.png
   description: Check my online Curriculum Vitae
-  bio: Telecom Engineer @talkdesk
+  bio: Telecom Engineer @telnyx
   url: bandonga.com/cv/marcelo
   email_user  : marcelo
   email_domain : bandonga.com
@@ -81,9 +81,26 @@ marcelo:
         a: 2014-01-01T00:00:00
         b: Present
       groups:
+        - telnyx
         - talkdesk
         - celfocus
         - capgemini
+      telnyx:
+        ententy: Telnyx
+        logo: "assets/img/marcelo/telnyx.png"
+        url: https://telnyx.com/
+        items:
+          - voip
+        voip:
+          title: VoIP Engineer
+          dates: Mai 2021 - Present
+          range:
+            a: 2021-05-17T00:00:00
+            b: Present
+          location   : Remote
+          description: "Understand how the Telnyx Telephony Engine works as whole, while also being able to identify each underlying service and its purpose. 
+            Working with VoIP technologies to design new features and guide software developers on their implementation and assist other teams by triaging escalated issues and then working with all the involved parties until they are resolved."
+       
       talkdesk:
         ententy: Talkdesk
         logo: "assets/img/marcelo/talkdesk.png"
@@ -93,10 +110,10 @@ marcelo:
           - support
         network:
           title: VoIP Network Engineer
-          dates: Mar 2020 - Present
+          dates: Mar 2020 - Mai 2021
           range:
             a: 2020-03-01T00:00:00
-            b: Present
+            b: 2021-05-17T00:00:00
           location   : Remote
           description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) in the CCasS and SIP trunk setup between multiple SBC/PBX (such as Asterisk) and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
         support:
