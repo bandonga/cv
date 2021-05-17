@@ -322,15 +322,15 @@ marcelo:
           location   : Lisboa
           description: "Supporting immigrant children in school underachievement and integration at Centro S. Pedro Claver."
 
-    projects:
-      page: 2
-      title: Projects
-      icon: tasks
-      groups:
-        - projects
-      projects:
-        items:
-          - projects
-        projects:
-          description: "Columnist in the Integral newspaper, about Técnico to it's students, 2012.<br>
-            Winner of [Global Management Challenge](https://globalmanagementchallenge.pt/) at Técnico and Accenture, 2011."
+  #  projects:
+  #    page: 2
+  #    title: Projects
+  #    icon: tasks
+  #    groups:
+  #      - projects
+  #    projects:
+  #      items:
+  #        - projects
+  #      projects:
+  #        description: "Columnist in the Integral newspaper, about Técnico to it's students, 2012.<br>
+  #          Winner of [Global Management Challenge](https://globalmanagementchallenge.pt/) at Técnico and Accenture, 2011."
