@@ -30,7 +30,7 @@ marcelo:
     url: https://keybase.io/
     icon: keybase
   link: bandonga.com
-  location    : Working remote or at Europe
+  location    : Working remote at Europe
   born        : 1988-09-30T00:00:00
   nationality:
     - nat_pt
@@ -43,7 +43,7 @@ marcelo:
       name: Proficient in English
       flag: gb
   roles:
-    - Voice Engineer (VoIP / Network)
+    - RTC Engineer (VoIP / Network)
     - SRE (Cloud / Infrastructure Operations)
   pages: 2
   sections:
@@ -68,9 +68,9 @@ marcelo:
         items:
           - profile
         profile:
-          description: "Telecom engineer working in Voice Operations, with a background in Infrastructure and Networking. <br>
-                Broad knowledge, from VoIP Protocols to Sysadmin, with troubleshooting, programming and SRE experience.
-                Eager to learn more about about **Linux**, **Networking**, **VoIP**, monitoring, cloud computing, automation, microservices and containers.<br>
+          description: "Telco and CS Engineer working in VoIP Operations, with a background in Sofware Programming and Networking. <br>
+                Broad knowledge, from RTC Protocols to Sysadmin, Infra, with troubleshooting experience.
+                Eager to learn more about about **SRE**, **Linux**, **Networking**, **RTC**, coding, monitoring, cloud computing, automation, microservices and containers.<br>
                 Enthusiastic about open source, writing articles and experimenting in a homelab."
 
     experience:
@@ -182,9 +182,9 @@ marcelo:
         items:
           - meec
         meec:
-          title      : Master in Computers & Electrical Engineering
+          title      : Master in Computers Science & Electrical Engineering
           location   : Lisboa
-          description: "**Specialisation in Telecommunications and Computers** <br>
+          description: "**Specialisation in Telecommunications and Computer Science** <br>
           *Knowledge of:* Fundamentals of Communications, Propagation and Radiation and Telecommunication Networks and Systems.<br>
           Development of programming skills in C, JAVA and MATLAB. SQL, DB modulation and Entity relationship diagrams. Additional basic knowledge of Mathematica, HTML5, Javascript, PHP."
 
