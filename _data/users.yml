@@ -4,7 +4,7 @@ marcelo:
   favicon: assets/img/marcelo/marcelo.ico
   og_image: https://bandonga.com/cv/assets/img/marcelo/og.png
   description: Check my online Curriculum Vitae
-  bio: Telecom Engineer @telnyx
+  bio: Telco/CS Eng @telnyx
   url: bandonga.com/cv/marcelo
   email_user  : marcelo
   email_domain : bandonga.com
@@ -43,8 +43,8 @@ marcelo:
       name: Proficient in English
       flag: gb
   roles:
-    - RTC Engineer (VoIP / Network)
-    - SRE (Cloud / Infrastructure Operations)
+    - RTC Eng (VoIP Network)
+    - SRE (Cloud / Infra Ops)
   pages: 2
   sections:
       - about
@@ -70,8 +70,8 @@ marcelo:
         profile:
           description: "Telco and CS Engineer working in VoIP Operations, with a background in Sofware Programming and Networking. <br>
                 Broad knowledge, from RTC Protocols to Sysadmin, Infra, with troubleshooting experience.
-                Eager to learn more about about **SRE**, **Linux**, **Networking**, **RTC**, coding, monitoring, cloud computing, automation, microservices and containers.<br>
-                Enthusiastic about open source, writing articles and experimenting in a homelab."
+                Eager to learn more about about **SRE**, **Linux**, **Networking**, **RTC**, Coding, Monitoring, Cloud Computing, Automation, Microservices and Containers.<br>
+                Enthusiastic about open source, writing articles and experimenting in a Homelab."
 
     experience:
       title: Professional Experience
@@ -115,7 +115,7 @@ marcelo:
             a: 2020-03-01T00:00:00
             b: 2021-05-17T00:00:00
           location   : Remote
-          description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) in the CCasS and SIP trunk setup between multiple SBC/PBX (such as Asterisk) and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
+          description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) in the CCaaS and SIP trunk setup between multiple SBC/PBX (such as Asterisk) and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
         support:
           title      : Support Engineer
           dates      : Nov 2018 - Mar 2020
