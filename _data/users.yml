@@ -43,7 +43,7 @@ marcelo:
       name: Proficient in English
       flag: gb
   roles:
-    - RTC Eng (VoIP Network)
+    - DevOps Eng (VoIP Network)
     - SRE (Cloud / Infra Ops)
   pages: 2
   sections:
@@ -69,8 +69,8 @@ marcelo:
           - profile
         profile:
           description: "Telco and CS Engineer working in VoIP Operations, with a background in Sofware Programming and Networking. <br>
-                Broad knowledge, from RTC Protocols to Sysadmin, Infra, with troubleshooting experience.
-                Eager to learn more about about **SRE**, **Linux**, **Networking**, **RTC**, Coding, Monitoring, Cloud Computing, Automation, Microservices and Containers.<br>
+                Broad knowledge, from Real-Time Protocols to Infra, with troubleshooting experience.
+                Eager to learn more about about **SRE**, **Linux**, **Networking**, **VoIP**, DevOps, Coding, Monitoring, Cloud Computing, Automation, Microservices and Containers.<br>
                 Enthusiastic about open source, writing articles and experimenting in a Homelab."
 
     experience:
@@ -92,7 +92,7 @@ marcelo:
         items:
           - voip
         voip:
-          title: VoIP Engineer
+          title: VoIP Ops Engineer
           dates: Mai 2021 - Present
           range:
             a: 2021-05-17T00:00:00
@@ -115,7 +115,7 @@ marcelo:
             a: 2020-03-01T00:00:00
             b: 2021-05-17T00:00:00
           location   : Remote
-          description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) in the CCaaS and SIP trunk setup between multiple SBC/PBX (such as Asterisk) and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
+          description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) in the CCaaS and SIP trunk setup between multiple SBC/PBX and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
         support:
           title      : Support Engineer
           dates      : Nov 2018 - Mar 2020
@@ -125,7 +125,7 @@ marcelo:
           location   : Lisboa
           description: "Tier 2 responsible to diagnose and solve Call Quality (QoS, Network configuration) and REST API platform issues for several external integrations and SIP trunks.\n
             Acting as main POC for vendors/carrier/partners and liaison between engineering and support teams.\n
-            Identify, document, replicate and triage on product bugs and features."
+            Identify, document, replicate and triage on product bugs and develop internal tools."
 
       celfocus:
         ententy: Celfocus
@@ -217,7 +217,7 @@ marcelo:
            -- Expertise in **VOIP** SIP/RTP Protocols, IMS Network, WebRTC, SIP Servers/Proxies and PBXs (such as Asterisk).<br>
            -- Understanding of **Networking** (TCP/IP) routing and switching.<br>
            -- Ability to **develop** scripts and tools (bash/python) and git.<br>
-           -- **Linux** (RedHat/Ubuntu), Weblogic J2EE AS, Apache HTTP and ActiveMQ Message broker Administration.<br>
+           -- **Linux** (RedHat/Debian), Docker containers and Kubernetes Administration.<br>
            -- Interaction with multiple **Databases** (InfluxDB, Postgres, TimesTen, OracleDB).<br>
            -- **Automate** boring stuff and infrastructure as code with Packer, Vagrant and Ansible.<br>
            -- Experience with multiple **monitoring** tools, such as ElasticSearch (ELK), Nagios/CheckMK and Grafana.<br>
