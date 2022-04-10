@@ -43,8 +43,8 @@ marcelo:
       name: Proficient in English
       flag: gb
   roles:
-    - DevOps Eng (VoIP Network)
-    - SRE (Cloud / Infra Ops)
+    - DevOps (VoIP / Cloud)
+    - SRE (Infra / Network)
   pages: 2
   sections:
       - about
@@ -70,8 +70,8 @@ marcelo:
         profile:
           description: "Telco and CS Engineer working in VoIP Operations, with a background in Software Programming and Networking. <br>
                 Broad knowledge, from Real-Time Protocols to Infra, with troubleshooting experience.
-                Eager to learn more about about **SRE**, **Linux**, **Networking**, **VoIP**, DevOps, Coding, Monitoring, Cloud Computing, Automation, Microservices and Containers.<br>
-                Enthusiastic about open source, writing articles and experimenting in a Homelab."
+                Eager to learn more about about **SRE**, **DevOps**, Linux, Networking, VoIP, Coding, Monitoring, Cloud Computing, Automation, Microservices and Containers.<br>
+                Enthusiastic about open source, writing articles, reading and experimenting in a Homelab."
 
     experience:
       title: Professional Experience
