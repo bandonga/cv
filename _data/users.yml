@@ -92,14 +92,13 @@ marcelo:
         items:
           - voip
         voip:
-          title: VoIP Ops Engineer
+          title: SW Engineer
           dates: Mai 2021 - Present
           range:
             a: 2021-05-17T00:00:00
             b: Present
           location   : Remote
-          description: "Understand how the Telnyx Telephony Engine works as whole, while also being able to identify each underlying service and its purpose. 
-            Working with VoIP technologies to design new features and guide software developers on their implementation and assist other teams by triaging escalated issues and then working with all the involved parties until they are resolved."
+          description: "DevOps Engineeer, specialised in RTP communications (SIP proxies), using kamailio and developing in python, go."
        
       talkdesk:
         ententy: Talkdesk
@@ -115,7 +114,7 @@ marcelo:
             a: 2020-03-01T00:00:00
             b: 2021-05-17T00:00:00
           location   : Remote
-          description: "Professional Services Voice specialist responsible to diagnose and solve all complex Call Quality issues (QoS, Network configuration) in the CCaaS and SIP trunk setup between multiple SBC/PBX and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
+          description: "Professional Services Voice specialist responsible to diagnose and solve complex Call Quality issues (QoS, Network configuration) in the CCaaS and SIP trunk setup between multiple SBC/PBX and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
         support:
           title      : Support Engineer
           dates      : Nov 2018 - Mar 2020
@@ -214,14 +213,14 @@ marcelo:
           - skills
         skills:
           description: "
-           -- Expertise in **VOIP** SIP/RTP Protocols, IMS Network, WebRTC, SIP Servers/Proxies and PBXs (such as Asterisk).<br>
-           -- Understanding of **Networking** (TCP/IP) routing and switching.<br>
-           -- Ability to **develop** scripts and tools (bash/python) and git.<br>
-           -- **Linux** (RedHat/Debian), Docker containers and Kubernetes Administration.<br>
-           -- Interaction with multiple **Databases** (InfluxDB, Postgres, TimesTen, OracleDB).<br>
-           -- **Automate** boring stuff and infrastructure as code with Packer, Vagrant and Ansible.<br>
-           -- Experience with multiple **monitoring** tools, such as ElasticSearch (ELK), Nagios/CheckMK and Grafana.<br>
-           -- Homelab with Proxmox VE **virtualization**."
+            -- Software Eng **programming** in  Python, Go, Bash, git.<br>
+            -- **Linux** (RedHat/Debian), Docker containers and Kubernetes Administration.<br>
+            -- **Automation** and CI/CD Ansible, Packer, Vagrant and Jenkins.<br>
+            -- **Monitoring** with ElasticSearch (ELK), Nagios/CheckMK and Grafana.<br>
+            -- Understanding of **Networking** (TCP/IP) routing and switching.<br>
+            -- Experience in **RTC** SIP/RTP Protocols, IMS Network, WebRTC, SIP Servers/Proxies (Kamailio).<br>
+            -- Interaction with multiple **Databases** (PostgresDB, InfluxDB, OracleDB).<br>
+            -- Homelab with Proxmox VE **virtualization**."
 
     organizations:
       title: Organizations
