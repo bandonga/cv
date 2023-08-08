@@ -43,8 +43,8 @@ marcelo:
       name: Proficient in English
       flag: gb
   roles:
-    - DevOps (VoIP / Cloud)
-    - SRE (Infra / Network)
+    - SW Eng (Backend | VoIP)
+    - DevOps (SRE | Cloud)
   pages: 2
   sections:
       - about
@@ -68,10 +68,9 @@ marcelo:
         items:
           - profile
         profile:
-          description: "Telco and CS Engineer working in VoIP Operations, with a background in Software Programming and Networking. <br>
-                Broad knowledge, from Real-Time Protocols to Infra, with troubleshooting experience.
-                Eager to learn more about about **SRE**, **DevOps**, Linux, Networking, VoIP, Coding, Monitoring, Cloud Computing, Automation, Microservices and Containers.<br>
-                Enthusiastic about open source, writing articles, reading and experimenting in a Homelab."
+          description: "Telco and CS Engineer working in VoIP Operations, with a background in Software Programming and Networking.
+            Broad knowledge, from Real-Time Protocols to Infra, with troubleshooting experience. Eager to learn more about about SRE, Linux, Networking, VoIP, DevOps, Coding, Monitoring, Cloud Computing, Automation, Microservices and Containers.
+            Enthusiastic about open source, writing and experimenting in a Homelab."
 
     experience:
       title: Professional Experience
@@ -93,7 +92,7 @@ marcelo:
           - voip
         voip:
           title: SW Engineer
-          dates: Mai 2021 - Present
+          dates: May 2021 - Present
           range:
             a: 2021-05-17T00:00:00
             b: Present
@@ -216,7 +215,7 @@ marcelo:
             -- Software Eng **programming** in  Python, Go, Bash, git.<br>
             -- **Linux** (RedHat/Debian), Docker containers and Kubernetes Administration.<br>
             -- **Automation** and CI/CD Ansible, Packer, Vagrant and Jenkins.<br>
-            -- **Monitoring** with ElasticSearch (ELK), Nagios/CheckMK and Grafana.<br>
+            -- **Monitoring** with ElasticSearch (ELK), Prometheus and Grafana.<br>
             -- Understanding of **Networking** (TCP/IP) routing and switching.<br>
             -- Experience in **RTC** SIP/RTP Protocols, IMS Network, WebRTC, SIP Servers/Proxies (Kamailio).<br>
             -- Interaction with multiple **Databases** (PostgresDB, InfluxDB, OracleDB).<br>
