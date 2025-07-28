@@ -83,7 +83,6 @@ marcelo:
         - telnyx
         - talkdesk
         - celfocus
-        - capgemini
       telnyx:
         ententy: Telnyx
         logo: "assets/img/marcelo/telnyx.png"
@@ -97,7 +96,7 @@ marcelo:
             a: 2021-05-17T00:00:00
             b: Present
           location   : Remote
-          description: "DevOps Engineeer, specialised in RTP communications (SIP proxies), using kamailio and developing in python, go."
+          description: "DevOps Engineeer, specialised in RTC communications (SIP proxies), using kamailio and developing in python, go."
        
       talkdesk:
         ententy: Talkdesk
@@ -108,22 +107,12 @@ marcelo:
           - support
         network:
           title: VoIP Network Engineer
-          dates: Mar 2020 - Mai 2021
+          dates: Nov 2018 - Mai 2021
           range:
-            a: 2020-03-01T00:00:00
+            a: 2018-11-01T00:00:00
             b: 2021-05-17T00:00:00
           location   : Remote
-          description: "Professional Services Voice specialist responsible to diagnose and solve complex Call Quality issues (QoS, Network configuration) in the CCaaS and SIP trunk setup between multiple SBC/PBX and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
-        support:
-          title      : Support Engineer
-          dates      : Nov 2018 - Mar 2020
-          range      :
-            a: 2018-11-01T00:00:00
-            b: 2020-03-31T00:00:00
-          location   : Lisboa
-          description: "Tier 2 responsible to diagnose and solve Call Quality (QoS, Network configuration) and REST API platform issues for several external integrations and SIP trunks.\n
-            Acting as main POC for vendors/carrier/partners and liaison between engineering and support teams.\n
-            Identify, document, replicate and triage on product bugs and develop internal tools."
+          description: "Professional Services (and Support Eng) Voice specialist responsible to diagnose and solve complex Call Quality issues (QoS, Network configuration) in the CCaaS and SIP trunk setup between multiple SBC/PBX and a CPaaS (such as Twilio) with E2E troubleshooting and Service Delivery."
 
       celfocus:
         ententy: Celfocus
@@ -133,12 +122,12 @@ marcelo:
           - operations
         operations:
           title      : Service Operations
-          dates      : Apr 2016 - Nov 2018
+          dates      : 2014 - Nov 2018
           range      :
-            a: 2016-04-01T00:00:00
+            a: 2014-01-01T00:00:00
             b: 2018-11-30T00:00:00
           location   : Lisboa
-          description: "In the Unified Communications team, with the Vodafone One Net (UCaaS Hosted IP PBX) and GCC service,  working as:<br>
+          description: "Capgemini and CELFocus project n the Unified Communications team, with the Vodafone One Net (UCaaS Hosted IP PBX) and GCC service,  working as:<br>
             Service Operations, working as a SRE (Site Reliability Engineer). Sysadmin of Red Hat Linux, SIP Trunks, PBX, Middleware Java EE AS (Weblogic), ActiveMQ JMS Broker and NOKIA mCAS. Responsible to deploy and maintain the availability of custom apps.<br>
             Familiarity with multiple Databases (InfluxDB, Postgres, TimesTen, OracleDB)<br>
             Development of tools and scripting (bash, python) for monitoring and automation.<br>
@@ -147,25 +136,6 @@ marcelo:
             Manage the acceptance and deploy of new product releases.
             Provide On-Call support and work well under pressure.
             Able to troubleshoot Networking issues and REST/SOAP Web Services. Knowledge of VoIP, SIP Flows in the IMS Network."
-
-      capgemini:
-        ententy: Capgemini
-        url: https://capgemini.com/
-        logo: "assets/img/marcelo/capgemini.png"
-        items:
-          - consultant
-        consultant:
-          title      : Service Operations
-          dates      : 2014 - Apr 2016
-          range      :
-            a: 2014-01-01T00:00:00
-            b: 2016-04-30T00:00:00
-          location   : Lisboa
-          description: "Project with the Celfocus UC Service Operations team, with the Vodafone One Net and SIP Trunking. Experience in:<br>
-            Weblogic Server administration (WebCenter Content, Portal, OSB and SOA)<br>
-            Administration of Unix/Linux Servers, PBXs and development of tools/scripts.<br>
-            ITIL Service Support, with Tier 2 VoIP/SIP, network diagnostics and troubleshooting.<br>
-            Oracle PL/SQL and SQL SERVER DB management and query tuning."
 
     education:
       title: Education
