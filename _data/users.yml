@@ -104,7 +104,6 @@ marcelo:
         url: https://talkdesk.com/
         items:
           - network
-          - support
         network:
           title: VoIP Network Engineer
           dates: Nov 2018 - Mai 2021
@@ -174,7 +173,7 @@ marcelo:
     skills:
       title: Skills
       icon: tools
-      page: 2
+      page: 1
       groups:
         - skills
       skills:
