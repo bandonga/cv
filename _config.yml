@@ -6,4 +6,4 @@ include:
   - _pages
 author:
   name: Marcelo Félix
-remote_theme: marcelofpfelix/jekyllcv
+remote_theme: marcelofpfelix/jekyllcv@v0.1.2
